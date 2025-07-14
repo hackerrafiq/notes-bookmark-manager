@@ -69,3 +69,13 @@ This project is deployed on Render
 MongoDB hosted on MongoDB Atlas
 
 Environment variables securely stored on Render dashboard
+
+
+💡 Future Features (Ideas)
+✅ Login/Register with JWT
+
+📤 Export notes/bookmarks to PDF
+
+📦 Save to cloud storage (e.g., Cloudinary or Firebase)
+
+📱 Mobile-responsive improvements
