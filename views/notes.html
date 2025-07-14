@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Notes</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>My Notes</h1>
+
+    <form id="noteForm">
+      <input type="text" id="title" placeholder="Note title" required />
+      <textarea id="content" placeholder="Write your note here..." required></textarea>
+      <button type="submit">Add Note</button>
+    </form>
+
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search notes..." />
+    </div>
+
+    <div id="notesList">
+      <!-- Notes will be displayed here dynamically -->
+    </div>
+  </div>
+
+  <script src="/js/notes.js"></script>
+</body>
+</html>
