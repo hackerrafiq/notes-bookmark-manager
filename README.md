@@ -2,7 +2,7 @@
 
 A full-stack web application to manage your **notes** and **bookmarks** in one place. Built using **HTML**, **CSS (Tailwind)**, **JavaScript**, **Node.js**, **Express**, and **MongoDB Atlas**.
 
-Live Demo 👉 [Visit on Render](https://your-live-link.onrender.com) <!-- Replace with your link -->
+
 
 ---
 
@@ -18,9 +18,17 @@ Live Demo 👉 [Visit on Render](https://your-live-link.onrender.com) <!-- Repla
 
 ## 📷 Screenshots
 
-| Home Page                          | Notes Page                          | Bookmarks Page                     |
-|-----------------------------------|-------------------------------------|------------------------------------|
-| ![index](./screenshots/index.png) | ![notes](./screenshots/notes.png)   | ![bookmarks](./screenshots/bookmarks.png) |
+### 🏠 Home Page
+<img width="1362" height="618" alt="home png" src="https://github.com/user-attachments/assets/c5fd6da4-24f3-4f25-a531-bba3b352e7e5" />
+
+
+### 📝 Notes Page
+<img width="1078" height="509" alt="notes png" src="https://github.com/user-attachments/assets/4f1237f8-b207-4898-a3fb-df68d5432a31" />
+
+
+### 🔖 Bookmarks Page
+<img width="1074" height="579" alt="bookmark png" src="https://github.com/user-attachments/assets/47b51384-e93b-4f7a-ac6f-2a89091329f3" />
+
 
 > 📸 Tip: Add screenshots in a `/screenshots` folder for better visibility
 
